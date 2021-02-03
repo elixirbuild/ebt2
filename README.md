@@ -10,4 +10,4 @@ EBT1 is the game engine before this one. And we stopped developing it, because i
 
 ### Developers
 - <a href="https://www.youtube.com/channel/UCWEIM8ybZrdZ37Qr81Lqm4g">**Rogan Wido**</a> - Gameplay Programming
-- <a href="https://www.youtube.com/channel/UCjA8hKI-V0qwzXqx__V_9pw">**OT Guzman**</a> - Testing
+- <a href="https://www.youtube.com/channel/UCjA8hKI-V0qwzXqx__V_9pw">**Othniel Guzman**</a> - Testing
